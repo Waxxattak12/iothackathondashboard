@@ -1,6 +1,9 @@
-# electrolog
+# IOT Hackathon Dashboard
+IOT Hackathon dashboard toolkit that presents two views of devices transmitted data: 
+1) Multiple Devices data over time (via multi linear graphs that update in real time)
+2) Average Comparison 
 
-> A Vue.js project
+(Further API Docs - TBD)
 
 ## Build Setup
 
@@ -17,5 +20,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
